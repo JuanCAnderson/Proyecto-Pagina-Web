@@ -18,3 +18,5 @@ elems.forEach(function(ele){
         page2.style.backgroundImage = `url(${bgimg})`
     })
 })
+
+
